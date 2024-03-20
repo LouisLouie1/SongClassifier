@@ -65,8 +65,8 @@ def get_playlist_id_from_url(url):
     else:
         return None  # or raise an error/return an empty string based on your preference
 def get_token():
-    client_id = os.getenv("CLIENT_ID")
-    client_secret = os.getenv("CLIENT_SECRET")
+    client_id = st.secrets["CLIENT_ID"]
+    client_secret = st.secrets["CLIENT_SECRET"]
 
     auth_string = client_id + ":" + client_secret
     auth_bytes = auth_string.encode("utf-8")
