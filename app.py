@@ -7,10 +7,7 @@ import os
 import base64
 from requests import post, get
 import json
-from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
 
 
 # Load models 

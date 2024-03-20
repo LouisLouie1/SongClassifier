@@ -8,4 +8,4 @@ Requests==2.31.0
 scikit_learn==1.4.0
 streamlit==1.30.0
 tensorflow==2.15.0
-tensorflow_macos==2.15.0
+
