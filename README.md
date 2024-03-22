@@ -8,7 +8,7 @@ As an experiment, I pulled all extra metadata and features of songs I labeled wi
 Model 1 : bidirectional LSTM- Binary classification ( suitable or not for this restaurant ?)
 
 Training data:
-  Label 0: All variety of chosen that do not fit any playlist (1300 songs)
+  Label 0: All variety of chosen that do not fit any playlist (1300 songs) <br>
   Label 1: All originally labeled songs ( of the 4 classes below)  in playlists ( 1789 songs)
 
 Model 2: bidirectional LSTM- Classification (4 classes) ( if suitable, fits in what playlist ?)
