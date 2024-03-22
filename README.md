@@ -3,7 +3,7 @@ Song mood and intensity prediction model for a playlists classifications tasks.
 
 Internal tool I created for my music curation process. I run music curation business offering bespoke moods under the form of different playlist for restaurants, bars, hotels and retail spaces. These playlists usually follow a precise level of energy and style. They are updated monthly. It takes a demanding and tedious amount of time to listen to songs to analyze if it fits a certain mood. 
 
-As a test program, I pulled all extra metadata and features of songs I labeled with different moods over the years and trained machine learning models to predict if a song is a good fit for the place, and if so, in what playlist. Trained 2 bidirectional LSTM Models on labeled data :
+As an experiment, I pulled all extra metadata and features of songs I labeled with different moods over the years and trained machine learning models to predict if a song is a good fit for the place, and if so, in what playlist. Trained 2 bidirectional LSTM Models on labeled data :
 
 Model 1 : bidirectional LSTM- Binary classification ( suitable or not for this restaurant ?)
 
