@@ -21,21 +21,21 @@ Training data:
 
 Song metadata and audio features trained pulled from spotify API: 
 
-danceability: A measure from 0.0 to 1.0 indicating how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A higher value indicates that a track is more danceable.
+-danceability: A measure from 0.0 to 1.0 indicating how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A higher value indicates that a track is more danceable.
 
-energy: A measure from 0.0 to 1.0 that represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale.
+-energy: A measure from 0.0 to 1.0 that represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale.
 
-loudness: A measure in decibels (dB) of the overall loudness of a track. It is averaged across the entire track and is useful for comparing the loudness of tracks. Loudness values are typically between -60 and 0 db.
+-loudness: A measure in decibels (dB) of the overall loudness of a track. It is averaged across the entire track and is useful for comparing the loudness of tracks. Loudness values are typically between -60 and 0 db.
 
-mode: The modality of the track, indicating the scale from which its melodic content is derived. Major is represented by 1 and minor is 0.
+-mode: The modality of the track, indicating the scale from which its melodic content is derived. Major is represented by 1 and minor is 0.
 speechiness: A measure from 0.0 to 1.0 indicating the presence of spoken words in a track. A track with high speechiness sounds more like talk. Tracks with a speechiness above 0.66 are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.
 
-acousticness: A measure from 0.0 to 1.0 indicating how acoustic a track is. A score of 1.0 means the track is most likely to be an acoustic track.
+-acousticness: A measure from 0.0 to 1.0 indicating how acoustic a track is. A score of 1.0 means the track is most likely to be an acoustic track.
 instrumentalness: A measure from 0.0 to 1.0 indicating whether a track contains no vocal content. Tracks with a measure close to 1.0 are most likely instrumental.
 
-liveness: A measure from 0.0 to 1.0 indicating the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.
+-liveness: A measure from 0.0 to 1.0 indicating the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.
 
-valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g., happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g., sad, depressed, angry).
+-valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g., happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g., sad, depressed, angry).
 
 
 
