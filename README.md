@@ -5,6 +5,9 @@ Tool I created ro speed up my music curation process. I run music curation busin
 
 I pulled all extra metadata and features of songs I labeled with different moods over the years and trained two machine learning models to predict (1) if a song is a good fit for the space, and if so, (2) in which one of the four playlists it fits best, and what is the level of confidence of this classification task.  I Trained 2 bidirectional LSTM Models on labeled data :
 
+<a href="https://songclassifier.streamlit.app/" target="_blank">Song Classifier</a>
+
+
 Model 1 : bidirectional LSTM- Binary classification (Suitable or not for this restaurant ?)
 
 Training data:
