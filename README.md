@@ -39,6 +39,9 @@ instrumentalness: A measure from 0.0 to 1.0 indicating whether a track contains 
 -liveness: A measure from 0.0 to 1.0 indicating the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.
 
 -valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g., happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g., sad, depressed, angry).
+![Screen Shot 2024-03-25 at 11 07 28 AM](https://github.com/LouisLouie1/SongClassifier/assets/122399843/996db2ba-0794-441d-9f3d-8697610644cd)
+
+
 
 
 
