@@ -1,7 +1,7 @@
 # SongClassifier
 Song mood and intensity prediction model for a playlists classification tasks.
 
-For my final Data Science diploma project at Concordia University, I created a prediction tool designed to expedite the music curation process, an impotant part of a service I'm offering. I run music curation business offering bespoke moods under the form of different playlist for restaurants, bars, hotels and retail spaces. These playlists usually follow a precise level of energy and style. They are built to convey the identity of the client and reflect the weekly dynamics of the space, and are updated monthly. It takes a demanding and tedious amount of time to listen to songs to analyze if it fits a certain mood. 
+I run music curation business offering bespoke moods under the form of different playlist for restaurants, bars, hotels and retail spaces. These playlists usually follow a precise level of energy and style. They are built to convey the identity of the client and reflect the weekly dynamics of the space, and are updated monthly. It takes a demanding and tedious amount of time to listen to songs to analyze if it fits a certain mood. For my final Data Science diploma project at Concordia University, I created a prediction tool designed to expedite the music curation process, an impotant part of a service I'm offering. 
 
 I pulled all metadata and features of songs that I labeled with different moods over the years, and trained two bidirectional LSTM Models machine learning models to predict (1) if a song is a good fit for the space, and if so, (2) in which one of the four playlists it fits best, and what is the level of confidence of this classification task. 
 
