@@ -1,4 +1,8 @@
 # SongClassifier
+
+⚠️ Maintenance notice:
+This app was built in 2024 using Streamlit and the Spotify API. Some endpoints and library behaviors have since changed, so parts of the app may not function as intended until the next update.
+
 Song mood and intensity prediction model for a playlists classification tasks.
 
 I run music curation business offering bespoke moods under the form of different playlist for restaurants, bars, hotels and retail spaces. These playlists usually follow a precise level of energy and style. They are built to convey the identity of the client and reflect the weekly dynamics of the space, and are updated monthly. It takes a demanding and tedious amount of time to listen to songs to analyze if it fits a certain mood. For my final Data Science diploma project at Concordia University, I created a prediction tool designed to expedite the music curation process, an impotant part of a service I'm offering. 
