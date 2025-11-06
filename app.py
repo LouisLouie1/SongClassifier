@@ -303,6 +303,7 @@ def preprocess_data(df):
 def main():
     st.title("Spotify Track Classifier")
     description = """
+    IMPORTANT : Built in 2024 with Streamlit and the Spotify API. Currently under maintenance due to API and framework updates.
     This app features a song mood and intensity prediction model designed for playlist classification tasks. 
     
     The system employs two models trained on a dataset of 3,089 songs labeled by humans to determine if a song is 
